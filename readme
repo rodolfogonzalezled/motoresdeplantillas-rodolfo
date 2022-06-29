@@ -1,0 +1,26 @@
+# Desafio - Motores de plantillas #
+
+## _Autor: Rodolfo Gonzalez - Curso: Backend_
+
+###Motores de plantillas:    
+- EJS
+- Handlebars
+- PUG
+
+De los 3 motores de plantilla me gusto mas EJS, es facil de configurar, se puede incrustar y reutilixar código. Por otra parte lo que me gusto del handlebars es la sintaxis que maneja para mapear los datos en la vista. Pug me parecio complicado y dificil de adaptar a la sintaxis real de html a pesar de tener el mismo resultado que los demas motores.
+
+# Para su prueba:
+1.	Clonar el repositorio ( git clone https://github.com/rodolfogonzalezled/motoresdeplantillas-rodolfo.git)
+2.	Obtener node_modules ( npm install )
+    - Para EJS (npm install ejs)
+    - Para PUG (npm install pug)
+    - Para Handlebars (npm install express-handlebars)
+3.	Iniciar la app desde la terminal en la carpeta del proyecto a revisar. ( node server.js )
+4.	El proyecto se ejecutará en el navegador en ( http://localhost:8080/ )
+
+# Vistas:
+- Formulario para cargar un producto:
+http://localhost:8080/ 
+
+- Lista de productos:
+http://localhost:8080/productos
